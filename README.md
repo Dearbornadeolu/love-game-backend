@@ -22,7 +22,7 @@ A simple WebSocket-powered multiplayer game server that supports real-time game 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/gameserver.git
+   git clone https://github.com/dearbornadeolu/gameserver.git
    cd gameserver
    ```
 
